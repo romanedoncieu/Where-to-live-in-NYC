@@ -4,34 +4,17 @@ In this project, we want to help New Yorkers find the best neighborhood to buy a
 
 Today people are more concerned with the environment than ever before. This is why we decided to include factors such as Energy Efficiency of Buildings as well as Farmers Markets. This project can be extended to include even more features, yet we believe that we can help people make better informed decision seamlessly.  
 
-### Markdown
+A brief peak at our results for Manhattan would tell you to buy an appartment in Midtown as it is the best combination of low greenhouse gas emissions and low selling price.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Guide to our code
 
-```markdown
-Syntax highlighted code block
+To check out our results, you can view our full paper in our repository. 
+Most of our code was implemented in Google Colaboratory. Therefore, you can view it using the following links:
+- Energy predictions: 
+- Farmers Markets visualization: 
 
-# Header 1
-## Header 2
-### Header 3
+Our sales predictions however were run using iPython Notebook, you can download the data and code in our repository. 
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romanedoncieu/Where-to-live-in-NYC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project was carried out by Yingying Zheng (yz949@cornell.edu) and Romane d'Oncieu (rsd229@cornell.edu) as part of a Data Science in the Wild class at Cornell Tech.
