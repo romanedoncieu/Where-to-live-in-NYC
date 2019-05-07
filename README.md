@@ -10,8 +10,8 @@ A brief peak at our results for Manhattan would tell you to buy an appartment in
 
 To check out our results, you can view our full paper in our repository. 
 Most of our code was implemented in Google Colaboratory. Therefore, you can view it using the following links:
-- Energy predictions: 
-- Farmers Markets visualization: 
+- Energy predictions: https://colab.research.google.com/drive/1uhzLjmmStZZ36L_dyNyAKLQlCFC9XJic
+- Farmers Markets visualization: https://colab.research.google.com/drive/10gcDcwSnz6iww00VpoX9MeS4mu5V4nA8
 
 Our sales predictions however were run using iPython Notebook, you can download the data and code in our repository. 
 
