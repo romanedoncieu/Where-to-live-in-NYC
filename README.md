@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Where to live in NYC
 
-You can use the [editor on GitHub](https://github.com/romanedoncieu/Where-to-live-in-NYC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this project, we want to help New Yorkers find the best neighborhood to buy an apartment. We believe that there is already a lot of information out there to help you choose by location and size of apartment but what about other features that would not be specific to apartment characteristics? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today people are more concerned with the environment than ever before. This is why we decided to include factors such as Energy Efficiency of Buildings as well as Farmers Markets. This project can be extended to include even more features, yet we believe that we can help people make better informed decision seamlessly.  
 
 ### Markdown
 
