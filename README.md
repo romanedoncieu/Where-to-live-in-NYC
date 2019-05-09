@@ -12,8 +12,12 @@ To check out our results, you can view our full paper in our repository.
 Most of our code was implemented in Google Colaboratory. Therefore, you can view it using the following links:
 - Energy predictions: https://colab.research.google.com/drive/1uhzLjmmStZZ36L_dyNyAKLQlCFC9XJic
 - Farmers Markets visualization: https://colab.research.google.com/drive/10gcDcwSnz6iww00VpoX9MeS4mu5V4nA8
+- Schools Visualization: https://colab.research.google.com/drive/1vcTIEHlPzwPGqVNUjxjCKfcRG5P2xXoV
+- Subway Station Visualization: https://colab.research.google.com/drive/1YtEaHI8YxCVkDTNY8FWx6Gp5_FJrfmIg
 
-Our sales predictions however were run using iPython Notebook, you can download the data and code in our repository. 
+All the data to run these notebooks are accessible in the following Google Drive folder: https://drive.google.com/drive/folders/1Kl_PydAoEz2yJfA0bt7WHpNmOifPcpDA?usp=sharing
+
+Our sales predictions however were run using iPython Notebook, you can download the code (Sales Predictions.ipynb) and the data required to run it in our repository. 
 
 ## Contact
 
